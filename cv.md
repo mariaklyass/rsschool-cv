@@ -7,7 +7,7 @@
 ********* 
 ## About me
 I'm 30 years old. Currently, I'm studying at the Rolling Scopes School. 
-The main goal for me getting a Junior JS/Front-end developer's position. 
+The main goal for me is getting a Junior JS/Front-end developer's position. 
 I have no mathematical/engineering background, but I'm eager to learn and excited to try new things.
 ********* 
 ## Skills
